@@ -2,4 +2,6 @@
 
 무엇을·왜 했는지 시간순 누적. 최신 날짜 위. 형식은 `frontend-wiki` log-writing-guide 따름.
 
+2026-07-02 (정회석) — React Native + Expo 초기화. Expo SDK 54.0.35 핀, RN 0.81.5, React 19.1.0. 스토어 Expo Go 실기기 테스트·레거시 아키텍처 마지막 SDK 근거로 54 고정. newArchEnabled는 템플릿 기본값 true 유지, Rive가 New Arch 지원하므로 무방.
+
 2026-07-02 (정회석) — frontend-wiki 공통 위키 연동. `./frontend-wiki` 심볼릭링크·`.gitignore`·`AGENTS.md`·`CLAUDE.md` 생성해 프로젝트 기본 셋팅. Rive 애니메이션 앱 구동 테스트 목적 레포.
